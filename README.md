@@ -1,5 +1,8 @@
-### Hi there 👋
+### Awright?
 
+[![Wheest's github stats](https://github-readme-stats.vercel.app/api?username=wheest&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheest&layout=compact&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Wheest/Wheest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
